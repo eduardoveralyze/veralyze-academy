@@ -1,5 +1,3 @@
----
-
 # Créditos
 
 **Autor:** Eduardo Vera
